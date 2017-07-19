@@ -1,4 +1,2 @@
 # Test-Git
-Started on 18 July 2017
-# DEV Branch created
-# QA Branch created
+Started on 18 July 2017 DEV Branch created
